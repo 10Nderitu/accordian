@@ -1,2 +1,2 @@
 # Accordian
-React accordian component and its functionality
+Accordian component and its functionality
